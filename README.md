@@ -6,8 +6,8 @@ Karena kode-kode ini digunakan dalam konteks perkuliahan, aspek yang diutamakan 
 
 # Versi R, Python, dan Octave yang Digunakan
 
-R v4.4.0
-Python v3.12.2
-Octave v8.4.0
+- R v4.4.0
+- Python v3.12.2
+- Octave v8.4.0
 
 
